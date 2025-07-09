@@ -1,12 +1,3 @@
-<style>
-   *{
-      background-color : grey,
-      color : black
-   }
-   h2{
-      color : 2
-   }
-</style>
 
 <h1> # heart-disease-prediction </h1>
 
